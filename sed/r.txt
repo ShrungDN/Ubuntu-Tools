@@ -1,0 +1,14 @@
+# sed 's/\(..20b...\)/\1@smail.iitm.ac.in/g' r.txt ------ use this for this example ------- even this line will be edited as this is a text file and this line isn't a comment 
+
+# use these as examples
+
+# sed 's/\(..20b...\) \(.*\)/\1@smail.iitm.ac.in : \2/g' r.txt 
+
+
+
+ae20b001 Amit
+me20b001 Bhanu
+mm20b001 Aziz
+bt2018-r002 Quadir 
+na20b001 Peter
+
